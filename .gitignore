@@ -1,3 +1,5 @@
 code/config.json*
 code/example_data/
 code/.ipynb_checkpoints/
+*.log
+*.aux
